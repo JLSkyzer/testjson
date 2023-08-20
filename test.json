@@ -1,0 +1,17 @@
+[
+    {
+        "rang":1,
+        "first_name": "Alex",
+        "last_name" : "Dumont"
+    },
+    {
+        "rang":2,
+        "first_name": "Jean",
+        "last_name" : "Cule"
+    },
+    {
+        "rang":3,
+        "first_name": "Jean",
+        "last_name" : "Culpas"
+    }
+]
